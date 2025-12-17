@@ -6,7 +6,7 @@ This project analyzes machine maintenance data from the AI4I 2020 Predictive Mai
 ---
 
 ## Dataset
-- **Source:** [AI4I 2020 Predictive Maintenance Dataset](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance)
+- **Source:** [AI4I 2020 Predictive Maintenance Dataset](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
 - **Records:** 10,000
 - **Features:** Air temperature, Process temperature, Rotational speed, Torque, Tool wear, Product type, Failure type
 - **Targets:** Failure (binary), Failure Type (categorical)
