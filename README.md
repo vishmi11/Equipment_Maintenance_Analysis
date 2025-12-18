@@ -70,7 +70,7 @@ git clone https://github.com/vishmi11/Equipment_Maintenance_Analysis.git
 ## Excel Dashboard
 Interactive Excel dashboard showing KPIs, failure analysis, and tool wear trends:
 
-![Dashboard Screenshot]([dashboard.png](https://github.com/vishmi11/Equipment_Maintenance_Analysis/blob/main/Equipment_Maintenance_Analysis/dashboard.png))
+![Dashboard Screenshot](https://github.com/vishmi11/Equipment_Maintenance_Analysis/blob/main/Equipment_Maintenance_Analysis/dashboard.png)
 
 ---
 ## License
